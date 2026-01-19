@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour
 {
     public TextMeshProUGUI gameOverText;
     public Button restartButton;
-    public TextMeshProUGUI scoreText;  // Para el score opcional
+    public TextMeshProUGUI scoreText; 
 
     private float score = 0f;
 
@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
 
     private void Update()
     {
-        if (Time.timeScale == 1f && scoreText != null)  // Solo cuenta si el juego está activo
+        if (Time.timeScale == 1f && scoreText != null)  
         {
             score += Time.deltaTime * 10f;
             scoreText.text = $"SCORE: {Mathf.FloorToInt(score)}";
