@@ -1,4 +1,4 @@
-# Endless Runner 2D 🏃‍♂️
+# Endless Runner 2D 
 
 ![Unity](https://img.shields.io/badge/Unity-2022+-black?style=flat&logo=unity)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -11,7 +11,7 @@ Endless Runner 2D es un juego arcade minimalista desarrollado en Unity donde el 
 
 Perfecto para aprender los fundamentos de desarrollo de juegos 2D en Unity, incluyendo física, detección de colisiones, generación procedural y gestión de estados del juego.
 
-## ✨ Características Principales
+##  Características Principales
 
 ### Jugabilidad
 - **Movimiento automático**: El personaje avanza constantemente hacia la derecha
@@ -29,14 +29,14 @@ Perfecto para aprender los fundamentos de desarrollo de juegos 2D en Unity, incl
 - **Gestión de estados**: Control del flujo del juego
 - **Arquitectura modular**: Código limpio y fácil de mantener
 
-## 🎮 Controles
+##  Controles
 
 | Acción | Tecla/Botón |
 |--------|-------------|
 | Saltar | **Barra Espaciadora** o **Clic Izquierdo** |
 | Reiniciar | **R** (después de Game Over) |
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 Mini-Juego-Endless-Runner-2D/
@@ -53,14 +53,14 @@ Mini-Juego-Endless-Runner-2D/
 └── ProjectSettings/      # Configuración del proyecto
 ```
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Unity 2022+**: Motor de desarrollo de juegos
 - **C#**: Lenguaje de programación principal
 - **Unity Physics 2D**: Sistema de física y colisiones
 - **TextMesh Pro**: Sistema de renderizado de texto
 
-## 📋 Scripts Principales
+##  Scripts Principales
 
 ### `PlayerController.cs`
 - Control del movimiento del jugador
@@ -82,7 +82,7 @@ Mini-Juego-Endless-Runner-2D/
 - Control del flujo del juego
 - Reinicio de partida
 
-## 🚀 Instalación y Ejecución
+##  Instalación y Ejecución
 
 ### Requisitos Previos
 - Unity 2022.1 o superior
@@ -106,7 +106,7 @@ Mini-Juego-Endless-Runner-2D/
    - Presiona el botón **Play** en el editor de Unity
    - O construye el juego: `File > Build Settings > Build`
 
-## 🎯 Cómo Jugar
+##  Cómo Jugar
 
 1. El juego comienza automáticamente al iniciar la escena
 2. Tu personaje se moverá constantemente hacia la derecha
@@ -115,7 +115,7 @@ Mini-Juego-Endless-Runner-2D/
 5. Si chocas con un obstáculo, es Game Over
 6. Presiona **R** para reiniciar (si está implementado)
 
-## 🔧 Desarrollo y Personalización
+##  Desarrollo y Personalización
 
 ### Modificar la Dificultad
 
@@ -136,7 +136,7 @@ Ideas para expandir el juego:
 - Animaciones del personaje
 - Parallax background para profundidad
 
-## 🎓 Conceptos de Unity Demostrados
+##  Conceptos de Unity Demostrados
 
 - **Rigidbody2D**: Física 2D y movimiento
 - **Collider2D**: Detección de colisiones
@@ -147,16 +147,16 @@ Ideas para expandir el juego:
 - **Input System**: Detección de entrada del jugador
 - **Singleton Pattern**: GameManager accesible globalmente
 
-## 📝 Mejores Prácticas Aplicadas
+##  Mejores Prácticas Aplicadas
 
-- ✅ Código modular y reutilizable
-- ✅ Nombres descriptivos de variables y métodos
-- ✅ Separación de responsabilidades entre scripts
-- ✅ Uso de prefabs para instanciación eficiente
-- ✅ Comentarios en el código para claridad
-- ✅ Estructura de carpetas organizada
+-  Código modular y reutilizable
+-  Nombres descriptivos de variables y métodos
+-  Separación de responsabilidades entre scripts
+-  Uso de prefabs para instanciación eficiente
+-  Comentarios en el código para claridad
+-  Estructura de carpetas organizada
 
-## 🤝 Contribuciones
+##  Contribuciones
 
 Este es un proyecto educativo abierto a mejoras. Si deseas contribuir:
 
@@ -166,18 +166,15 @@ Este es un proyecto educativo abierto a mejoras. Si deseas contribuir:
 4. Push a la rama (`git push origin feature/NuevaCaracteristica`)
 5. Abre un Pull Request
 
-## 📄 Licencia
+---
 
-Este proyecto está disponible como código abierto para fines educativos.
-
-## 👨‍💻 Desarrollador
+## Desarrollador
 
 **Kronus2812**
 
-Stack: Unity, C#, Game Development, Frontend, Backend, JavaScript, SQL, PHP, React, Python
+Stack: Frontend, Backend, Python, JavaScript, SQL, PHP, React, CSS, HTML
 
-Repositorio: [github.com/Kronus2812/Mini-Juego-Endless-Runner-2D](https://github.com/Kronus2812/Mini-Juego-Endless-Runner-2D)
+Repositorio: [github.com/Kronus2812/Mini-Juego](https://github.com/Kronus2812/Mini-Juego-Endless-Runner-2D)
 
 ---
 
-⭐ Si te gustó este proyecto, considera darle una estrella en GitHub
